@@ -1,0 +1,7 @@
+streamlit
+streamlit_extras
+langchain
+openai>=1.2.0
+tiktoken
+unstructured
+google-search-results
